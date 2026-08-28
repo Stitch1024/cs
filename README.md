@@ -18,4 +18,4 @@
 ### Others
 
 - **compiler-theory** - Compiler Theory
-- **uml** - Unified Modeling Language
+- **uml** - Unified Modeling Language (UML)
