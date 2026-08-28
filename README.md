@@ -1,20 +1,20 @@
 ﻿# Computer Science
 
-## 目录结构
+## Directory Structure
 
-### 408 核心科目
+### 408 Core Subjects
 
-- **data-structures** - 数据结构
-- **computer-organization** - 计算机组成原理
-- **operating-systems** - 操作系统
-- **computer-networks** - 计算机网络
+- **data-structures** - Data Structures
+- **computer-organization** - Computer Organization
+- **operating-systems** - Operating Systems
+- **computer-networks** - Computer Networks
 
-### 软件工程相关
+### Software Engineering
 
-- **design-patterns** - 设计模式
-- **software-engineering** - 软件工程
-- **build-systems** - 构建系统 (make, cmake)
+- **design-patterns** - Design Patterns
+- **software-engineering** - Software Engineering
+- **build-systems** - Build Systems (make, cmake)
 
-### 其他
+### Others
 
-- **compiler-theory** - 编译原理
+- **compiler-theory** - Compiler Theory
