@@ -1,0 +1,7 @@
+# ninja log v7
+5	127	8096038065173703	CMakeFiles/state_machine.dir/main.c.obj	c0d0d3a4b408290
+9	129	8096038065213786	CMakeFiles/state_machine.dir/switch_case.c.obj	35470c93957343d6
+129	303	8096038066413044	state_machine.exe	589fb8f9a044154
+26	143	8096042559701616	CMakeFiles/state_machine.dir/main.c.obj	c0d0d3a4b408290
+30	144	8096042559741284	CMakeFiles/state_machine.dir/switch_case.c.obj	35470c93957343d6
+144	317	8096042560884680	state_machine.exe	589fb8f9a044154
