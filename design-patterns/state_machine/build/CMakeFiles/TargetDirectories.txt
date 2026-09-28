@@ -1,3 +1,0 @@
-D:/Tools/opencode/vault/computer-science/design-patterns/state_machine/build/CMakeFiles/state_machine.dir
-D:/Tools/opencode/vault/computer-science/design-patterns/state_machine/build/CMakeFiles/edit_cache.dir
-D:/Tools/opencode/vault/computer-science/design-patterns/state_machine/build/CMakeFiles/rebuild_cache.dir

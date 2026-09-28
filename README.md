@@ -1,5 +1,9 @@
 ﻿# Computer Science
 
+> **CS General Knowledge**
+>
+> This directory contains only general computer science knowledge that is independent of any specific language, platform, or domain. Domain-specific topics (e.g. embedded / RTOS / GUI / multimedia) should live in separate repositories.
+
 ## Directory Structure
 
 ### 408 Core Subjects

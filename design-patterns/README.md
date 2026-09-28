@@ -1,7 +1,5 @@
 # Design Patterns
 
-A collection of design patterns implemented in C.
-
 ## Creational Patterns (创建型)
 
 | Pattern | Description | Status |

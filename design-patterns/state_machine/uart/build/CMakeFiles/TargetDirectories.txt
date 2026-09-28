@@ -1,5 +1,0 @@
-D:/Tools/opencode/vault/computer-science/design-patterns/state_machine/uart/build/CMakeFiles/uart_linked.dir
-D:/Tools/opencode/vault/computer-science/design-patterns/state_machine/uart/build/CMakeFiles/uart_sender.dir
-D:/Tools/opencode/vault/computer-science/design-patterns/state_machine/uart/build/CMakeFiles/uart_receiver.dir
-D:/Tools/opencode/vault/computer-science/design-patterns/state_machine/uart/build/CMakeFiles/edit_cache.dir
-D:/Tools/opencode/vault/computer-science/design-patterns/state_machine/uart/build/CMakeFiles/rebuild_cache.dir
